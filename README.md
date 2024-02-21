@@ -32,3 +32,5 @@ Android app to manage expenses
 The MIT License (MIT)
 
 Copyright (c) 2016 Ajit Singh
+
+Wie geht's world
